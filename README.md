@@ -1,4 +1,4 @@
-# HBB4ALL Sing Language Video Plugin for JWPlayer Player
+# HBB4ALL Sign Language Video Plugin for JWPlayer Player
 
 ##Hybrid Broadcast Broadband For ALL
 
